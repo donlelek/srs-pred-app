@@ -36,8 +36,8 @@ shinyServer(
     
       prob <- (or / (1 + or)) * 100
       
-      tab <- data.frame(Scale = c("Logit", "Odds ratio", "Probabilidad"),
-                        Value = c(pred, or, prob))
+      tab <- data.frame(Escala = c("Logit", "Odds ratio", "Probabilidad"),
+                        Valor = c(pred, or, prob))
       tab
     })
     
