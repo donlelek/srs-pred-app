@@ -58,7 +58,9 @@ shinyUI(fluidPage(
         Retrospective analysis of antibiotic treatments against piscirickettsiosis in farmed Atlantic 
         salmon Salmo salar in Chile. Dis Aquat Org 118:227-235"),
       p(""),
-      a(href = "mailto:dprice@upei.ca", "Solicite el artículo")
+      a(href = "mailto:dprice@upei.ca", "Solicite el artículo"),
+      p(""),
+      a(href = "https://github.com/donlelek/srs-pred-app/issues", "Algo no funciona?, Deje un comentario en la web de desarrollo del proyecto")
       
     )
   )

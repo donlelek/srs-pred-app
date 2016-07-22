@@ -1,0 +1,9 @@
+name: srs-pred-app
+account: dprice
+server: shinyapps.io
+appId: 116167
+bundleId: 512766
+url: https://dprice.shinyapps.io/srs-pred-app/
+when: 1469194137.09155
+asMultiple: FALSE
+asStatic: FALSE
